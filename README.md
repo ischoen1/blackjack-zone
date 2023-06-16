@@ -1,12 +1,12 @@
 # blackjack-zone
 
-Welcome to the Blackjack Zone. 
+Welcome to Blackjack-Zone 
 
-A fully functional and accurate blackjack game. This game is to help learn the strategies from the book "Beat the Dealer - A Winning Strategy for the Game of Twenty-One" by Edward O. Thorp. 
+A fully functional and accurate blackjack game that helps learn the strategies from the book "Beat the Dealer - A Winning Strategy for the Game of Twenty-One" by Edward O. Thorp. 
 
-The game will have the capabilities to control how many decks are in use at once, the ability to play more than one hand at once, the ability to change rules to fit particular casinos, the ability to pick how many other cpu players there are and thier expeirience level, and a checkable counter.
+The game will have the capabilities to control how many decks are in use at once, play more than one hand at once, change rules to fit differnt playing styles, and to pick other cpu players and thier expeirience level.
 
-This game be hosted online and playable for free. It will have a mobile first design as practing on your phone is most likely. 
+This game will be hosted online and playable for free. It will have a mobile first design as practing on your phone is most likely. 
 
 This game is currently in the beginning stages of the project and this file will be 
 updated often. 
